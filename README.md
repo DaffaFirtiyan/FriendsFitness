@@ -29,12 +29,77 @@ I will do one or two cycle of step 2, 3, and 4 after I've gotten feedback from r
 ## Personas
 
 ### Mike Yi
+#### Demographics
+Age: 19
+Occupation: High school student
+Marital status: Single
+Weight Goal: Gain weight
+
+#### Goals and needs
+Being a soon graduate from high school, Mike thinks that this is the perfect opportunity for him to start improving himself by going to the gym. He would like to dedicate a lot of his time and energy to build some muscles as school would be ending soon and he would have a lot of free time. He won’t shy away from doing a lot of research to build his workout.
+
+#### Pain points
+Mike has never done any strength training before and doesn’t really know where to start. He also is intimidated by going to the gym like a lot of first timers. 
+
+#### Relevant background
+Mike uses his phone and computer a lot both personally and for school related purposes. He thinks that having one source point to keep all the information he’s learned would save him a lot of trouble in the long run, especially if it has a feature to organise his needs. 
+
+>“I’m gonna be HUGE when you see me in uni!”
 
 
 ### Megan Mckenzie
+Demographics
+Age: 31
+Occupation: Accountant 
+Marital status: Single
+Weight Goal: Lose weight
+
+#### Goals and Needs
+Megan workout does both strength training and cardio with a little bit of HITT mixed in. She does a HITT workout that changes weekly and a strength workout routine that changes based on her lifts.
+
+#### Pain Points
+Being an accountant for a big company, she doesn't have a lot of time during her day to day. Usually, she would spend some amount of time during the weekend to sort out her workouts for that week but is finding this cumbersome.
+
+
+#### Relevant Background
+She is tired switching between three different apps with those apps not allowing her to merge her data in one place. It would be less tiresome if she doesn't need to manually remember what she needs to do for each workout.
+
+>"I just beat my PB!"
 
 
 ### Ronnie Michael
+#### Demographics
+Age: 57
+Occupation: Software engieneer
+Marital status: Married
+Weight Goal: Lose weight
+
+#### Goals and Needs
+Ronnie has worked in front of a computer, on a desk all the time after he graduated university. All of this accumulated to him very rarely doing any exercise at all. His doctor strongly recommends him to start losing weight for health reasons and that is why he’s been looking for an app that will help him achieve this goal.
+
+#### Pain Points
+Even though, he works with computers for almost all his life, he never caught on to the mobile trend. Thus, he is a novice when navigating through mobile applications.
+
+#### Relevant Background
+Ronnie has a heart condition that won't allow him to progress as quickly and workout as hard as the average person.
+
+>"I can't wait for my rest day. My legs are killing me!"
 
 
 ### Bando Takeji
+#### Demographics
+Age: 22
+Occupation: University student. Majoring in Tourism Management
+Marital status: Single
+Weight Goal: Maintain weight but become healthier in general
+
+#### Goals and Needs
+Bando would like to be healthier and look better in general. He doesn’t really concern himself with trying to maximise his workout goals, potentials, or anything like that.
+
+#### Pain Points
+Being an exchange student, he sometimes doesn’t understand some words used to describe how to do a workout. Having some sort of visual aid will help with this problem tremendously. He is also quite lazy most of the time and is worried that if he start skipping workouts, he will lost all his progress. This fact has made him lose interest all together for working out in the past. 
+
+#### Relevant Background
+His sleeping pattern is off the charts. Some days he wakes up at 8:00 am, some at 3:00 pm, and some days he would just skip sleeping all together.
+
+>“I should really go to sleep”
