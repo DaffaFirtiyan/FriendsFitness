@@ -5,7 +5,7 @@ A UX prototype for a fictional mobile workout app called Friends Fitness. Design
 I will be dividing the design process into four different categories. These will be the steps I take when working on this project:
 1. **Research**
     1. User Personas. 
-    >This is to represent a typical user with their goals, frustrations, etc
+    >This is to represent a typical user with their goals, frustrations, etc. These will be fictional personas as I won't be doing any typical user research, rather is based from my own experience.
     2. Use Cases.
     >How the users might use this service.
     3. User Journey Maps. 
@@ -27,3 +27,14 @@ I will do one or two cycle of step 2, 3, and 4 after I've gotten feedback from r
 ---
 
 ## Personas
+
+### Mike Yi
+
+
+### Megan Mckenzie
+
+
+### Ronnie Michael
+
+
+### Bando Takeji
