@@ -29,11 +29,12 @@ I will do one or two cycle of step 2, 3, and 4 after I've gotten feedback from r
 ## Personas
 
 ### Mike Yi
+![mike yi](https://user-images.githubusercontent.com/27318156/85217448-5600d800-b3e5-11ea-8c72-302f825c7dbf.jpg)
 #### Demographics
-Age: 19
-Occupation: High school student
-Marital status: Single
-Weight Goal: Gain weight
+Age: 19 <br>
+Occupation: High school student <br>
+Marital status: Single <br>
+Weight Goal: Gain weight <br>
 
 #### Goals and needs
 Being a soon graduate from high school, Mike thinks that this is the perfect opportunity for him to start improving himself by going to the gym. He would like to dedicate a lot of his time and energy to build some muscles as school would be ending soon and he would have a lot of free time. He won’t shy away from doing a lot of research to build his workout.
@@ -44,15 +45,17 @@ Mike has never done any strength training before and doesn’t really know where
 #### Relevant background
 Mike uses his phone and computer a lot both personally and for school related purposes. He thinks that having one source point to keep all the information he’s learned would save him a lot of trouble in the long run, especially if it has a feature to organise his needs. 
 
+#### Quote
 >“I’m gonna be HUGE when you see me in uni!”
 
 
 ### Megan Mckenzie
-Demographics
-Age: 31
-Occupation: Accountant 
-Marital status: Single
-Weight Goal: Lose weight
+![megan mckenzie](https://user-images.githubusercontent.com/27318156/85217451-5c8f4f80-b3e5-11ea-8a4f-afdc00f7eb6a.jpg)
+#### Demographics
+Age: 31 <br>
+Occupation: Accountant  <br>
+Marital status: Single <br>
+Weight Goal: Lose weight <br>
 
 #### Goals and Needs
 Megan workout does both strength training and cardio with a little bit of HITT mixed in. She does a HITT workout that changes weekly and a strength workout routine that changes based on her lifts.
@@ -64,15 +67,17 @@ Being an accountant for a big company, she doesn't have a lot of time during her
 #### Relevant Background
 She is tired switching between three different apps with those apps not allowing her to merge her data in one place. It would be less tiresome if she doesn't need to manually remember what she needs to do for each workout.
 
+#### Quote
 >"I just beat my PB!"
 
 
 ### Ronnie Michael
+![ronnie michael](https://user-images.githubusercontent.com/27318156/85217445-4d100680-b3e5-11ea-8746-3f47e05e0e26.jpg)
 #### Demographics
-Age: 57
-Occupation: Software engieneer
-Marital status: Married
-Weight Goal: Lose weight
+Age: 57 <br>
+Occupation: Software engieneer <br>
+Marital status: Married <br>
+Weight Goal: Lose weight <br>
 
 #### Goals and Needs
 Ronnie has worked in front of a computer, on a desk all the time after he graduated university. All of this accumulated to him very rarely doing any exercise at all. His doctor strongly recommends him to start losing weight for health reasons and that is why he’s been looking for an app that will help him achieve this goal.
@@ -83,15 +88,17 @@ Even though, he works with computers for almost all his life, he never caught on
 #### Relevant Background
 Ronnie has a heart condition that won't allow him to progress as quickly and workout as hard as the average person.
 
+#### Quote
 >"I can't wait for my rest day. My legs are killing me!"
 
 
 ### Bando Takeji
+![bando takeji](https://user-images.githubusercontent.com/27318156/85217454-69ac3e80-b3e5-11ea-8016-658aff6038c0.jpg)
 #### Demographics
-Age: 22
-Occupation: University student. Majoring in Tourism Management
-Marital status: Single
-Weight Goal: Maintain weight but become healthier in general
+Age: 22 <br>
+Occupation: University student. Majoring in Tourism Management <br>
+Marital status: Single <br>
+Weight Goal: Maintain weight but become healthier in general <br>
 
 #### Goals and Needs
 Bando would like to be healthier and look better in general. He doesn’t really concern himself with trying to maximise his workout goals, potentials, or anything like that.
@@ -102,4 +109,5 @@ Being an exchange student, he sometimes doesn’t understand some words used to 
 #### Relevant Background
 His sleeping pattern is off the charts. Some days he wakes up at 8:00 am, some at 3:00 pm, and some days he would just skip sleeping all together.
 
+#### Quote
 >“I should really go to sleep”
