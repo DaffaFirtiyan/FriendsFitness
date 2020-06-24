@@ -114,4 +114,33 @@ Being an exchange student, he sometimes doesn’t understand some words used to 
 His sleeping pattern is off the charts. Some days he wakes up at 8:00 am, some at 3:00 pm, and some days he would just skip sleeping all together.
 
 #### Quote
->“I should really go to sleep”
+>“I should really go to sleep” <br><br>
+
+---
+
+## Use Cases
+Note: These tables are generated from [this website](https://www.tablesgenerator.com/markdown_tables)
+| Use Case   | Ending a workout prematurely                                                                                                                                            |
+|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Actor      | Mike Yi                                                                                                                                                       |
+| Basic Flow | Mike is in the gym and start a premade workout. He does the first set of the first exercise and records it. He ends the workout early due to having to leave. He clicks on Don't Save and goes on with his day. |
+
+| Use Case   | Record a run                                                                                                                                                                                                              |
+|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Actor      | Ronnie                                                                                                                                                                                                                    |
+| Basic Flow | In the morning before work, Ronnie goes out for a run. He opens the app, input how far he wants to run for that morning and start the timer. He puts his phone in his pocket. The app tells him that he has past half of his distance goal. He turns around and start to run back home. He stops the app and is happy with his run's statistics.  |
+
+| Use Case   | Edit a workout                                                                                                                                                                                                                                                                                                                                                                                                 |
+|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Actor      | Megan                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Basic Flow | It's lunch time and Megan has been reading a blog post about strength training workouts. She decides that she wants to add an exercise for her workout that evening. She navigates to that workout and add the exercise. Due to the exercise not known to the app, she has to add the custom exercise herself. After that, she adds the exercise into her current workout. She saves and goes on with her day. |
+
+| Use Case   | Reminded to workout                                                                                                                                                                                                                                 |
+|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Actor      | Bando                                                                                                                                                                                                                                               |
+| Basic Flow | Bando is woken up from sleep by his phone. He sees that it's a notification from the app telling him that he needs to workout today. He curses to himself for manually turning on the notification but goes to the gym anyway to start working out. |
+
+| Use Case   | Complete a full workout                                                                                                                                                                                                                                                                                   |
+|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Actor      | Bando                                                                                                                                                                                                                                                                                                     |
+| Basic Flow | Bando gets to the gym and start one of the premade workouts. After completing the whole workout, he is prompted if he wanted to do some cool down stretches. He agrees and start following the routine. He ends the workout and feels good that another day is coloured in in the Calendar overview mode. |
