@@ -32,7 +32,7 @@ I will do one or two cycle of step 2, 3, and 4 after I've gotten feedback from r
 ![mike](https://user-images.githubusercontent.com/27318156/85487680-29390480-b621-11ea-92c5-16f3c17b5302.png)
 
 #### Demographics
-Age: 19 <br>
+Age: 18 <br>
 Occupation: High school student <br>
 Workplace: Newlands College <br>
 Weight Goal: Gain weight <br>
@@ -99,7 +99,7 @@ Ronnie has a heart condition that won't allow him to progress as quickly and wor
 ![bando](https://user-images.githubusercontent.com/27318156/85487730-4372e280-b621-11ea-887a-21b3e137d2b0.png)
 
 #### Demographics
-Age: 22 <br>
+Age: 21 <br>
 Occupation: University student <br>
 Workplace: Victoria University of Wellington <br>
 Weight Goal: Maintain weight but become healthier in general <br>
