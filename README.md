@@ -29,11 +29,12 @@ I will do one or two cycle of step 2, 3, and 4 after I've gotten feedback from r
 ## Personas
 
 ### Mike Yi
-![mike yi](https://user-images.githubusercontent.com/27318156/85217448-5600d800-b3e5-11ea-8c72-302f825c7dbf.jpg)
+![mike](https://user-images.githubusercontent.com/27318156/85487680-29390480-b621-11ea-92c5-16f3c17b5302.png)
+
 #### Demographics
 Age: 19 <br>
 Occupation: High school student <br>
-Marital status: Single <br>
+Workplace: Newlands College <br>
 Weight Goal: Gain weight <br>
 
 #### Goals and needs
@@ -50,11 +51,12 @@ Mike uses his phone and computer a lot both personally and for school related pu
 
 
 ### Megan Mckenzie
-![megan mckenzie](https://user-images.githubusercontent.com/27318156/85217451-5c8f4f80-b3e5-11ea-8a4f-afdc00f7eb6a.jpg)
+![megan](https://user-images.githubusercontent.com/27318156/85487693-31913f80-b621-11ea-91ab-5a1d4ca99b04.png)
+
 #### Demographics
 Age: 31 <br>
 Occupation: Accountant  <br>
-Marital status: Single <br>
+Workplace: Moore Markhams Wellington <br>
 Weight Goal: Lose weight <br>
 
 #### Goals and Needs
@@ -72,11 +74,12 @@ She is tired switching between three different apps with those apps not allowing
 
 
 ### Ronnie Michael
-![ronnie michael](https://user-images.githubusercontent.com/27318156/85217445-4d100680-b3e5-11ea-8746-3f47e05e0e26.jpg)
+![ronnie](https://user-images.githubusercontent.com/27318156/85487706-3950e400-b621-11ea-90cc-b393423139e5.png)
+
 #### Demographics
 Age: 57 <br>
 Occupation: Software engieneer <br>
-Marital status: Married <br>
+Workplace: Jardon <br>
 Weight Goal: Lose weight <br>
 
 #### Goals and Needs
@@ -93,11 +96,12 @@ Ronnie has a heart condition that won't allow him to progress as quickly and wor
 
 
 ### Bando Takeji
-![bando takeji](https://user-images.githubusercontent.com/27318156/85217454-69ac3e80-b3e5-11ea-8016-658aff6038c0.jpg)
+![bando](https://user-images.githubusercontent.com/27318156/85487730-4372e280-b621-11ea-887a-21b3e137d2b0.png)
+
 #### Demographics
 Age: 22 <br>
-Occupation: University student. Majoring in Tourism Management <br>
-Marital status: Single <br>
+Occupation: University student <br>
+Workplace: Victoria University of Wellington <br>
 Weight Goal: Maintain weight but become healthier in general <br>
 
 #### Goals and Needs
