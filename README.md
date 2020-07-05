@@ -163,4 +163,12 @@ Note: These tables are generated with help from [this website](https://www.table
 | Use Case   | Start and complete a HIIT workout                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Actor      | Megan                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| Basic Flow | It is the evening and Megan is ready for her HIIT workout. She opens the app and see that it is the most intense workout for this week. She readies herself for the workout. The app started counting down and started instructing her on what she needs to do. She is completely exhausted after the workout but is happy to have finished such a gruelling workout. She also saw that she has used approx. 600 calories according to her watch. |
+| Basic Flow | It is the evening and Megan is ready for her HIIT workout. She opens the app and see that it is the most intense workout for this week. She readies herself for the workout. The app started counting down and started instructing her on what she needs to do. She is completely exhausted after the workout but is happy to have finished such a gruelling workout. She also saw that she has used approx. 600 calories according to her watch. |<br><br>
+
+---
+
+## User Journey Maps
+
+Mike updating his weight after a notification
+Meghan updating her workout and then doing it
+Ronnie just does a cardio workout outside
